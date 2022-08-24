@@ -1,0 +1,24 @@
+#sh_web_stats_server_info,
+#sh_web_stats_pages_info {
+    background: #2C98FF;
+    color: white;
+    font-weight: 400;
+}
+
+#sh_web_stats_server_info .postbox-header h2,
+#sh_web_stats_pages_info .postbox-header h2 {
+    color: white;
+}
+
+.sh_stats_box p {
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+.sh_stats_title {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 700;
+}
